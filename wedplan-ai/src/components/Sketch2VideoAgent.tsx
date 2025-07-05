@@ -1,0 +1,111 @@
+[{
+	"resource": "/c:/VAM BuildYourAIIdeain6Weeks/WedpalnAINew/WedPlanAI/wedplan-ai/src/components/Sketch2VideoAgent.tsx",
+	"owner": "typescript",
+	"code": "2339",
+	"severity": 8,
+	"message": "Property 'trim' does not exist on type '(message?: string, _default?: string) => string'.",
+	"source": "ts",
+	"startLineNumber": 2,
+	"startColumn": 15,
+	"endLineNumber": 2,
+	"endColumn": 19
+},{
+	"resource": "/c:/VAM BuildYourAIIdeain6Weeks/WedpalnAINew/WedPlanAI/wedplan-ai/src/components/Sketch2VideoAgent.tsx",
+	"owner": "typescript",
+	"code": "2304",
+	"severity": 8,
+	"message": "Cannot find name 'toast'.",
+	"source": "ts",
+	"startLineNumber": 3,
+	"startColumn": 5,
+	"endLineNumber": 3,
+	"endColumn": 10
+},{
+	"resource": "/c:/VAM BuildYourAIIdeain6Weeks/WedpalnAINew/WedPlanAI/wedplan-ai/src/components/Sketch2VideoAgent.tsx",
+	"owner": "typescript",
+	"code": "2304",
+	"severity": 8,
+	"message": "Cannot find name 'uploadedSketch'.",
+	"source": "ts",
+	"startLineNumber": 11,
+	"startColumn": 8,
+	"endLineNumber": 11,
+	"endColumn": 22
+},{
+	"resource": "/c:/VAM BuildYourAIIdeain6Weeks/WedpalnAINew/WedPlanAI/wedplan-ai/src/components/Sketch2VideoAgent.tsx",
+	"owner": "typescript",
+	"code": "2304",
+	"severity": 8,
+	"message": "Cannot find name 'toast'.",
+	"source": "ts",
+	"startLineNumber": 12,
+	"startColumn": 5,
+	"endLineNumber": 12,
+	"endColumn": 10
+},{
+	"resource": "/c:/VAM BuildYourAIIdeain6Weeks/WedpalnAINew/WedPlanAI/wedplan-ai/src/components/Sketch2VideoAgent.tsx",
+	"owner": "typescript",
+	"code": "2304",
+	"severity": 8,
+	"message": "Cannot find name 'setIsGenerating'.",
+	"source": "ts",
+	"startLineNumber": 20,
+	"startColumn": 3,
+	"endLineNumber": 20,
+	"endColumn": 18
+},{
+	"resource": "/c:/VAM BuildYourAIIdeain6Weeks/WedpalnAINew/WedPlanAI/wedplan-ai/src/components/Sketch2VideoAgent.tsx",
+	"owner": "typescript",
+	"code": "2304",
+	"severity": 8,
+	"message": "Cannot find name 'setGeneratedContent'.",
+	"source": "ts",
+	"startLineNumber": 39,
+	"startColumn": 9,
+	"endLineNumber": 39,
+	"endColumn": 28
+},{
+	"resource": "/c:/VAM BuildYourAIIdeain6Weeks/WedpalnAINew/WedPlanAI/wedplan-ai/src/components/Sketch2VideoAgent.tsx",
+	"owner": "typescript",
+	"code": "2304",
+	"severity": 8,
+	"message": "Cannot find name 'toast'.",
+	"source": "ts",
+	"startLineNumber": 47,
+	"startColumn": 9,
+	"endLineNumber": 47,
+	"endColumn": 14
+},{
+	"resource": "/c:/VAM BuildYourAIIdeain6Weeks/WedpalnAINew/WedPlanAI/wedplan-ai/src/components/Sketch2VideoAgent.tsx",
+	"owner": "typescript",
+	"code": "2304",
+	"severity": 8,
+	"message": "Cannot find name 'uploadedSketch'.",
+	"source": "ts",
+	"startLineNumber": 56,
+	"startColumn": 26,
+	"endLineNumber": 56,
+	"endColumn": 40
+},{
+	"resource": "/c:/VAM BuildYourAIIdeain6Weeks/WedpalnAINew/WedPlanAI/wedplan-ai/src/components/Sketch2VideoAgent.tsx",
+	"owner": "typescript",
+	"code": "2304",
+	"severity": 8,
+	"message": "Cannot find name 'toast'.",
+	"source": "ts",
+	"startLineNumber": 58,
+	"startColumn": 5,
+	"endLineNumber": 58,
+	"endColumn": 10
+},{
+	"resource": "/c:/VAM BuildYourAIIdeain6Weeks/WedpalnAINew/WedPlanAI/wedplan-ai/src/components/Sketch2VideoAgent.tsx",
+	"owner": "typescript",
+	"code": "2304",
+	"severity": 8,
+	"message": "Cannot find name 'setIsGenerating'.",
+	"source": "ts",
+	"startLineNumber": 64,
+	"startColumn": 5,
+	"endLineNumber": 64,
+	"endColumn": 20
+}]
