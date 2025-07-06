@@ -30,7 +30,7 @@ The **Wedding AI Planner** is an AI-driven application that simplifies wedding p
 
 ### Installation
 1. Clone the repository:
-git clone [https://github.com/Yojo991/Wedding-AI-Planner.git]
+git clone [https://github.com/Jojo991/Wedding-AI-Planner.git]
 
 2. Navigate to the backend and install dependencies:
 cd Wedding-AI-Planner/backend
